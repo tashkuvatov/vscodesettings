@@ -1,0 +1,33 @@
+/***************MAIN CFGS***************/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+section {
+	padding: 100px 0;
+}
+.container {
+	max-width: 1170px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+
+
+/***************icons***************/
+/*<i class="fas fa-desktop"></i>
+<i class="fas fa-mobile-alt"></i>
+<i class="fas fa-camera"></i>
+<i class="fas fa-bullhorn"></i>*/
+
+/***************FONTS***************/
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
